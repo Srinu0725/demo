@@ -1,2 +1,2 @@
 # demo
-this is a new project regarding new ai not
+this is a new project regarding new ai bot
